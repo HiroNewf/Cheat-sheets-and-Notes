@@ -4,5 +4,5 @@ Who wants to memorize everything when we can just have sheet sheets? This will b
 
 | Cheet Sheet | For?        |  | Who made the cheat sheet |
 | :---------: |:-------------:|:------------:|
-| Nmap commands | Basic Nmap scans | Me
-| Commands | Command line | [thegeekb0y](https://github.com/thegeekyb0y/linuxcommands)
+| Nmap commands | Basic Nmap scans | Me |
+| Commands | Command line | [thegeekb0y](https://github.com/thegeekyb0y/linuxcommands) |
