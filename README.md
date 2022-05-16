@@ -6,3 +6,4 @@ Who wants to memorize everything when we can just have sheet sheets? This will b
 | :---------: |:-------------:|:------------:|
 | [Nmap commands](https://github.com/HiroNewf/Cheat-sheets/blob/main/Nmap.md) | Nmap scans | Me |
 | [Commands](https://github.com/HiroNewf/Cheat-sheets/blob/main/Commands.md) | Command line | [thegeekb0y](https://github.com/thegeekyb0y/linuxcommands) |
+| [Network+ complete notes](https://github.com/HiroNewf/Network-Plus-Notes) | Comptia Network+ certification | Me | 
