@@ -7,4 +7,4 @@ OSI model
 | Layer 4 | Transport | TCP, UDP, ect | Transport Layer |
 | Layer 3 | Network | Routing layer, routers, IP, Packets, Layer 3 switches, frame fragmentation | Internet/Network layer |
 | Layer 2 | Data Link | MAC, Frames, Switches, Bridges | Network Interface | 
-| Layer 1 | Physical | Signaling, cabling, connectors, hubs, bits, ect | Network Interface
+| Layer 1 | Physical | Signaling, cabling, connectors, hubs, bits, ect | Network Interface |
