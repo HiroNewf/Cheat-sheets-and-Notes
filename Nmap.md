@@ -9,7 +9,7 @@
 | nmap -exclude 192.168.3.1 | Excluded the listed hosts |
 | nmap www.youtube.com | Scan a domain |
 
-Picking Ports
+# Picking Ports
 | Switch | Example | Description |
 |:------:|:-------:|:-----------:|
 | -p | nmap 192.168.56.2 -p 22 | Scan a certain port (SSH port) | 
