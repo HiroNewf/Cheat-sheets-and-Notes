@@ -1,4 +1,4 @@
-OSI model 
+# OSI model and TCP/IP model
 | OSI layer | Name | Functions | TCP/IP layer it maps to |
 |:---------:|:----:|:---------:|:-----------------------:|
 | Layer 7 | Application | The layer we see, HTTP, FTP, POP3, ec | Application layer |
